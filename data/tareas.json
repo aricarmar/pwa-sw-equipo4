@@ -1,8 +1,9 @@
 {
-  "version_datos": 1,
+  "version_datos": 2,
   "tareas": [
     { "titulo": "Inspeccionar el Service Worker" },
     { "titulo": "Revisar Cache Storage" },
-    { "titulo": "Probar el modo sin conexión" }
+    { "titulo": "Probar el modo sin conexión" },
+    { "titulo": "Comprobar actualización de datos" }
   ]
 }
